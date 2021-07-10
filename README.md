@@ -11,9 +11,6 @@
 
 ## Install and Usage
 
-<a href="#">
-  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
-</a>
 
 ```sh
 git clone https://github.com/oguzhanygtr/css-interactive-iphone-12-ios-14.git
@@ -21,11 +18,7 @@ git clone https://github.com/oguzhanygtr/css-interactive-iphone-12-ios-14.git
 
 ## Screenshots
 
-![Guvercin App Request and Response](images/screenshot/mac_ss_1.png)
-![Guvercin App Response Details](images/screenshot/mac_ss_2.png)
-![Guvercin App Headers Auto Complate](images/screenshot/mac_ss_3.png)
-![Guvercin App Templates (light)](images/screenshot/mac_ss_4.png)
-![Guvercin App Collection and History](images/screenshot/mac_ss_5.png)
+coming soosn
 
 
 ## Author
